@@ -4,6 +4,6 @@ def kali(a,b):
 a = 10
 b = 2
 c = kali(a,b)
-e = c + a * b
+e = c + a 
 
 print(e)
