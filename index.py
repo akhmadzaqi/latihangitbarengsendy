@@ -4,5 +4,6 @@ def kali(a,b):
 a = 10
 b = 2
 c = kali(a,b)
+d = c + a * b
 
-print(c)
+print(d)
