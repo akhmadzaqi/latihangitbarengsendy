@@ -7,5 +7,9 @@
 </head>
 <body>
 <h1>Halooo sendi masukk niiihh</h1>
+<?php
+$warna = "merah";
+echo "Hello World! $warna";
+?>
 </body>
 </html>
